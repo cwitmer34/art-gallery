@@ -1,0 +1,22 @@
+.button-container {
+  text-align: center;
+}
+
+button {
+  font-size: 1.25em;
+  padding: 0.65em 1.25em;
+  margin: 0.5em;
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 10px;
+  color: white;
+}
+
+button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+button:active {
+  background-color: white;
+  color: #282c34;
+}
